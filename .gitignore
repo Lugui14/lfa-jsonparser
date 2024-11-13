@@ -6,3 +6,4 @@
 /depend.mak
 /parse.tab.h
 /grammar_symbols.[hc]
+.vscode
